@@ -14,7 +14,7 @@
     background: linear-gradient(#87ceeb,#e0f6ff);
 }
 
-.pié {
+.pipe{
     position: absolute;
     bottom 0;
     width: 80px;
@@ -26,7 +26,7 @@
     bottom: 0;
 }
 
-.nuvem {
+.nuvem{
     position: absolute;
     width: 550px;
 }
