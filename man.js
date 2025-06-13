@@ -1,7 +1,7 @@
 const mario = document.querySelector(".mario")
 const pipe = document.querySelector(".pipe")
 
-cont jump = () => {
+const jump = () => {
     mario.classList.add("jump");
 
     setTimeout(() => {
